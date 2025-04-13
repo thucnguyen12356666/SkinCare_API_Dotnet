@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\SkinCare_APIDotnet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{58866893-8268-4623-B657-E0BC09E778F8}|SkinCare_APIDotnet\\SkinCare_APIDotnet.csproj|d:\\skincare_apidotnet\\skincare_apidotnet\\controllers\\skincarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58866893-8268-4623-B657-E0BC09E778F8}|SkinCare_APIDotnet\\SkinCare_APIDotnet.csproj|solutionrelative:skincare_apidotnet\\controllers\\skincarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58866893-8268-4623-B657-E0BC09E778F8}|SkinCare_APIDotnet\\SkinCare_APIDotnet.csproj|d:\\skincare_apidotnet\\skincare_apidotnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58866893-8268-4623-B657-E0BC09E778F8}|SkinCare_APIDotnet\\SkinCare_APIDotnet.csproj|solutionrelative:skincare_apidotnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58866893-8268-4623-B657-E0BC09E778F8}|SkinCare_APIDotnet\\SkinCare_APIDotnet.csproj|d:\\skincare_apidotnet\\skincare_apidotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58866893-8268-4623-B657-E0BC09E778F8}|SkinCare_APIDotnet\\SkinCare_APIDotnet.csproj|solutionrelative:skincare_apidotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,25 +77,51 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SkinCare_APIDotnet\\SkinCare_APIDotnet\\Program.cs",
-              "RelativeDocumentMoniker": "SkinCare_APIDotnet\\Program.cs",
-              "ToolTip": "D:\\SkinCare_APIDotnet\\SkinCare_APIDotnet\\Program.cs",
-              "RelativeToolTip": "SkinCare_APIDotnet\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T11:10:14.66Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\SkinCare_APIDotnet\\SkinCare_APIDotnet\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SkinCare_APIDotnet\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\SkinCare_APIDotnet\\SkinCare_APIDotnet\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SkinCare_APIDotnet\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:26:04.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkinCareController.cs",
+              "DocumentMoniker": "D:\\SkinCare_APIDotnet\\SkinCare_APIDotnet\\Controllers\\SkinCareController.cs",
+              "RelativeDocumentMoniker": "SkinCare_APIDotnet\\Controllers\\SkinCareController.cs",
+              "ToolTip": "D:\\SkinCare_APIDotnet\\SkinCare_APIDotnet\\Controllers\\SkinCareController.cs*",
+              "RelativeToolTip": "SkinCare_APIDotnet\\Controllers\\SkinCareController.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:26:01.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SkinCare_APIDotnet\\SkinCare_APIDotnet\\Program.cs",
+              "RelativeDocumentMoniker": "SkinCare_APIDotnet\\Program.cs",
+              "ToolTip": "D:\\SkinCare_APIDotnet\\SkinCare_APIDotnet\\Program.cs",
+              "RelativeToolTip": "SkinCare_APIDotnet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T11:10:14.66Z",
+              "EditorCaption": ""
             }
           ]
         },

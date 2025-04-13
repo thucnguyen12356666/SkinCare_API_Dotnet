@@ -2,6 +2,8 @@
 
 namespace SkinCare_APIDotnet.Controllers
 {
+    [ApiController]
+    [Route("[controller]")]
     public class SkinCareController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
@@ -16,7 +18,7 @@ namespace SkinCare_APIDotnet.Controllers
             _logger = logger;
         }
 
-        [HttpGet(Name = "GetWeatherForecast")]
+        [HttpGet(Name = "GetWeatherForecastAPI")]
         public IEnumerable<WeatherForecast> Get()
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
